@@ -12,7 +12,7 @@
 | switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk |
 | diodes 1N4148W| 44 | These are surface mount diodes in SOD123 package. 42 for Konrad / 40 for Yubitsume / 38 for Saegewerk |
 | 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk |
-| OLED module   | 02 | SSD1306 128x64 pixel OLED Displays |
+| OLED module   | 02 | SSD1306 128x64 pixel I2C OLED Displays with 4 pins |
 | reset button  | 02 | Alps SKRTLAE010 |
 | TRRS jack     | 02 | MJ-4PP-9 or PJ320A |
 | TRRS cable    | 01 | Alternatively, you can use a TRS cable for [half-duplex](https://github.com/qmk/qmk_firmware/blob/master/docs/drivers/serial.md#usart-half-duplex) if your MCU has an ARM chip. Otherwise, if your MCU based on an AVR chip just like Arduino ProMicro, you must use TRRS cable |

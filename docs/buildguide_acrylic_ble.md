@@ -12,7 +12,7 @@
 | switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk |
 | diodes 1N4148W| 44 | These are surface mount diodes in SOD123 package. 42 for Konrad / 40 for Yubitsume / 38 for Saegewerk |
 | 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk |
-| OLED module   | 02 | SSD1306 128x64 pixel OLED Displays |
+| OLED module   | 02 | SSD1306 128x64 pixel I2C OLED Displays with 4 pins |
 | reset button  | 02 | Alps SKRTLAE010 |
 | power switch  | 02 | MSK12C02 |
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
